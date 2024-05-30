@@ -1,0 +1,11 @@
+logo:
+  text: 星海飞影
+  type: link
+  path: index.html
+
+main:
+- text: 2024
+  type: label
+- text: 唯一ID
+  type: link
+  path: uuid/index.html
