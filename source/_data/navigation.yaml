@@ -6,6 +6,6 @@ logo:
 main:
 - text: 2024
   type: label
-- text: 唯一ID
+- text: 唯一ID生成算法剖析
   type: link
   path: uuid/index.html
