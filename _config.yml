@@ -8,8 +8,9 @@ subtitle: ''
 description: '博客'
 keywords: '星海飞影'
 author: pancaiqiang
-language: zh-CN
+language: zh
 timezone: 'Asia/Shanghai'
+favicon: /logo.svg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,7 +98,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: doc
+# theme: doc
+theme: sea
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
