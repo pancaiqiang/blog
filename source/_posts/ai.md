@@ -3,6 +3,8 @@ title: AI 概念
 date: 2024-12-20 15:00:00
 categories:
 - 理论知识
+tags:
+- 人工智能
 ---
 
 ##  人工智能
